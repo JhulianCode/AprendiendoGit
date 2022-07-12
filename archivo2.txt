@@ -1,3 +1,0 @@
-Mi segundo programa utilizando git - primer cambio
-Agregando codigo
-Agregando codigo2
