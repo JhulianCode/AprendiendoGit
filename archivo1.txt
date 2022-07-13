@@ -1,2 +1,4 @@
 Mi primer programa utilizando git
 Chanchito feliz
+Chanchito triste
+Carmiña
